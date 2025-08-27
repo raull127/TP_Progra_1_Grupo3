@@ -34,11 +34,11 @@ Integrantes:
 - Massun, Felipe – Legajo: 1195389
 
 Roles:
-- Líder de Proyecto:
-- Diseñador UX/UI:
-- Programador de Gestión de Usuarios:
-- Programador de Transacciones:
-- Programador de Gestión Fondos/Datos:
+- Líder de Proyecto:  Cantero, Raul Ariel
+- Diseñador UX/UI: Mamani Argote, Alejandro Matias
+- Programador de Gestión de Usuarios: Scala Merani, Damian Gabriel
+- Programador de Transacciones: Arias Castroman, Santiago
+- Programador de Gestión Fondos/Datos: Massun, Felipe
 
 .
 
