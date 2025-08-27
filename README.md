@@ -45,9 +45,9 @@ Roles:
     🎥 Presentación del Proyecto
 
 Se adjunta un video introductorio como presentación del proyecto y del grupo de trabajo
-
- (VIDEO)
-
+.
+[![Watch the video](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/222.PNG)](https://youtu.be/BD-hEeCRqBA)
+.
 
     📚  Desarrollo y Planes de Proyecto
 
