@@ -22,7 +22,7 @@ Es por ello que decidimos desarrollar "FLASHPAY", una aplicación de billetera v
 
 Diagrama de Flujo de la Aplicación:
   
-![alt text](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/DiagramaAppWallet.drawio%20(2).png)
+![alt text](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/DiagramaAppWallet.png)
 
     👥 Equipo 
 
