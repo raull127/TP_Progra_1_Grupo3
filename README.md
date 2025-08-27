@@ -10,7 +10,7 @@ Trabajo Práctico de Programación I, en el cual se irán publicando las diferen
 - Cantero, Raul Ariel – Legajo: 1184085
 - Apellido, Nombre – Legajo: XXXXX
 - Apellido, Nombre – Legajo: XXXXX
-- Apellido, Nombre – Legajo: XXXXX 
+- Scala Merani, Damian Gabriel – Legajo: 1139436
 
 🎥 Presentación del Proyecto
 
