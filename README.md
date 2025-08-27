@@ -30,8 +30,8 @@ Integrantes:
 - Cantero, Raul Ariel – Legajo: 1184085
 - Mamani Argote, Alejandro Matias  – Legajo: 1151978
 - Scala Merani, Damian Gabriel – Legajo: 1139436
-- Apellido, Nombre – Legajo: XXXXX
-- Apellido, Nombre – Legajo: XXXXX
+- Arias Castroman, Santiago – Legajo: 1224594
+- Massun, Felipe – Legajo: 1195389
 
 Roles:
 - Líder de Proyecto:
