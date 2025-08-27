@@ -8,7 +8,7 @@ La idea es desarrollar una aplicación que funcione como una billetera virtual b
 
 Diagrama de Flujo de la Aplicación:
 
-![alt text](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3/refs/heads/main/Wallet_Proyecto.drawio.png)
+![alt text](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/DiagramaAppWallet.drawio%20(2).png)
 
 👥 Integrantes del Grupo
 
