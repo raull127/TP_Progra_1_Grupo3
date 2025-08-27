@@ -8,9 +8,10 @@ Trabajo Práctico de Programación I, en el cual se irán publicando las diferen
 👥 Integrantes del Grupo
 
 - Cantero, Raul Ariel – Legajo: 1184085
-- Apellido, Nombre – Legajo: XXXXX
-- Apellido, Nombre – Legajo: XXXXX
+- Mamani Argote, Alejandro Matias  – Legajo: 1151978
 - Scala Merani, Damian Gabriel – Legajo: 1139436
+- Apellido, Nombre – Legajo: XXXXX
+- Apellido, Nombre – Legajo: XXXXX
 
 🎥 Presentación del Proyecto
 
