@@ -7,7 +7,7 @@ Trabajo Práctico de Programación I, en el cual se irán publicando las diferen
 
 👥 Integrantes del Grupo
 
-- Apellido, Nombre – Legajo: XXXXX
+- Cantero, Raul Ariel – Legajo: 1985081
 - Apellido, Nombre – Legajo: XXXXX
 - Apellido, Nombre – Legajo: XXXXX
 - Apellido, Nombre – Legajo: XXXXX 
@@ -27,4 +27,4 @@ Se adjunta un video introductorio como presentación del proyecto y del grupo de
 - Manejo de datos aleatorios con la librería random
 - Manejo y procesamiento de cadenas de caracteres
 
-- 
+
