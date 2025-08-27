@@ -1,4 +1,4 @@
-# TP_Progra_1_Grupo3 - "FLASHPAY"
+1# TP_Progra_1_Grupo3 - "FLASHPAY"
 
 //Trabajo Práctico de Programación I. Repositario dedicado a publicar las diferentes versiones y avances en el proyecto//
 
@@ -91,7 +91,7 @@ Cronograma
 
 Limitaciones:
 - No se desarrollará una interfaz gráfica compleja (será en consola).
-- No se implementarán sistemas de pago reales (solo simulación académica).
+- No se implementarán sistemas de pago reales (solo simulaciones).
 - Buena parte de la gestión de datos y mecanismos de seguridad será simulado, sin encriptación robusta o manejo avanzado de datos.
 
 Fuera del alcance:
