@@ -2,8 +2,13 @@
 
 📝 Proyecto
 
-Trabajo Práctico de Programación I, en el cual se irán publicando las diferentes versiones y avances del proyecto
+Trabajo Práctico de Programación I. Repositario dedicado a publicar las diferentes versiones y avances en el proyecto
 
+La idea es desarrollar una aplicación que funcione como una billetera virtual básica, inspirada en Mercado Pago. El sistema permitirá que los usuarios puedan registrarse, iniciar sesion, consultar su saldo, ingresar o retirar dinero, realizar pagos, transferir fondos entre cuentas, convertir entre distintas monedas y revisar el historial de sus movimientos.
+
+Diagrama de Flujo de la Aplicación:
+
+![alt text](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3/refs/heads/main/Wallet_Proyecto.drawio.png)
 
 👥 Integrantes del Grupo
 
