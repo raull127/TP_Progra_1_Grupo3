@@ -7,7 +7,7 @@ Trabajo Práctico de Programación I, en el cual se irán publicando las diferen
 
 👥 Integrantes del Grupo
 
-- Cantero, Raul Ariel – Legajo: 1985081
+- Cantero, Raul Ariel – Legajo: 1184085
 - Apellido, Nombre – Legajo: XXXXX
 - Apellido, Nombre – Legajo: XXXXX
 - Apellido, Nombre – Legajo: XXXXX 
