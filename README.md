@@ -74,7 +74,73 @@ Objetivos y entregables finales:
 3. Uso de módulos y funciones organizadas.
 4. Control de versiones en GitHub.
 
+Flujo de Ejecucion:
+
+1) Iniciar Sesión
+- Mostrar pantalla de inicio y opción “Iniciar Sesión”
+- Ingresar ID y Contraseña (strings)
+
+2) Validación (Protegido por Contraseña)
+- Buscar ID en la matriz usuarios (todo string).
+- Si credenciales inválidas → informar y volver a Iniciar Sesión.
+- Si credenciales válidas → determinar rol:
+-    Usuario → ir a Menú Principal del Usuario.
+-    Administrador → ir a Menú Principal del Administrador (rama admin del diagrama).
+
+3) Menú Principal del Usuario
+Opciones (cada acción vuelve al Menú Principal):
+- Ingresar / Retirar Dinero
+  Ingresar: leer monto, sumar al saldo, guardar como string
+  Registrar en transacciones: [fecha, id, "-", "CARGA", monto, moneda, ""]
+  Retirar: validar fondos, restar del saldo y registrar "RETIRO" si lo incluyen
   
+- Saldo
+  Mostrar saldo y moneda desde usuarios (solo lectura)
+
+- Transferencias
+  Pedir id_destino y monto
+  Validar existencia y fondos
+  Debitar origen, acreditar destino
+  Registrar en historial
+
+- Conversión a Moneda Extranjera
+  Elegir moneda
+  Calcular con valor de la moneda
+  Actualizar saldo convertido y moneda
+  Registrar CONVERSION
+
+- Historial
+  Filtrar en transacciones por id
+  Slicing de la fecha para formato (AAAA-MM-DD / HH-MM-SS)
+  Filtros por fecha o cantidad
+
+- Cerrar Sesión
+  Volver al menu principal
+
+4) Menú Principal del Administrador (rama “Como Usuario o Administrador”)
+- Opciones típicas (todas regresan al menú admin):
+- Usuarios: alta/baja/listado (matriz usuarios, todo string).
+- Reportes (ver siguiente punto).
+- Cerrar Sesión.
+
+5) Informes
+- Total por usuario
+- Total por categoría
+- Promedio por usuario
+- Usuarios sin pagos
+- Total general
+- Fechas de pagos
+
+6) Salida
+- Cerrar sesión (vuelve a Iniciar Sesión).
+- Salir (termina el programa).
+
+Matrices:
+usuarios = [[id, nombre, pass, saldo, moneda]]
+transacciones = [[fecha, id_origen, id_destino, tipo, monto, moneda, detalle]]
+contactos = [[id_owner, id_contacto, alias]]
+
+
 Recursos
 - Equipo de trabajo: 5 integrantes.
 - Tiempo estimado: alrededor de 4 semanas de desarrollo (Etapa 1).
