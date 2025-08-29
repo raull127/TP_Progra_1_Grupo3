@@ -2,7 +2,9 @@
 
 //Trabajo Práctico de Programación I. Repositario dedicado a publicar las diferentes versiones y avances en el proyecto//
 
-![LogoFlashPay](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/LogoProvisionalLiveFP.PNG) 
+<p align="center">
+<img src="https://github.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/blob/main/media/LogoProvisionalLiveFP.PNG?raw=true" align="centre" width="700" height="700"/>
+</p>
 
     📝 Proyecto
 
@@ -21,8 +23,10 @@ Es por ello que decidimos desarrollar "FLASHPAY", una aplicación de billetera v
 
 
 Diagrama de Flujo de la Aplicación:
-  
-![alt text](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/DiagramaAppWallet.png)
+
+<p align="center">
+<img src="https://github.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/blob/main/media/DiagramaAppWallet.png?raw=true" align="centre" width="800" height="800"/>
+</p>
 
     👥 Equipo 
 
@@ -46,7 +50,7 @@ Roles:
 
 Se adjunta un video introductorio como presentación del proyecto y del grupo de trabajo
 .
-[![Watch the video](https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/222.PNG)](https://youtu.be/BD-hEeCRqBA)
+[![Watch the video](https://github.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/blob/main/media/222.PNG?raw=true)](https://youtu.be/BD-hEeCRqBA)
 .
 
     📚  Desarrollo y Planes de Proyecto
@@ -169,4 +173,6 @@ Motivo de Eleccion del Proyecto:
 
 - La digitalización de los pagos es una tendencia en crecimiento en Argentina y en el mundo. Este proyecto busca simular una billetera virtual que no solo sea un ejercicio académico, sino también una propuesta inicial de solución para la inclusión financiera y el manejo simple de dinero electrónico.
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/raull127/TP_Progra_1_Grupo3__FLASHPAY/refs/heads/main/media/LogoProvisionalMinimal0.png" align="centre" width="100" height="100"/>
+</p>
